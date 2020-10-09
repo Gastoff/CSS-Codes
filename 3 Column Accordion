@@ -1,0 +1,55 @@
+<div class="ScrollBanner">*Regions*</div>  /*Formats the header to look like a scroll, per other Custom CSS*/
+
+<div class="trow">  /*Begins the accodion modification*/
+
+<div class="tcolumn" style="text-align:center">  /*Starts Accordion 1*/
+[accordion]
+[accordion-item] [title]
+[[Ustalav|<img style="padding:25px" src="https://db4sgowjqfwig.cloudfront.net/campaigns/216748/assets/1020760/Ustalav.png?1573580225" width="200px"></img>]]
+[end-title]
+[content]
+*[[Ustalav]]*
+[[Versex]]
+[[Thrushmoor]]
+[[Briarstone Asylum]]
+[end-content]
+[end-accordion-item]
+[end-accordion]
+</div>   /*Ends Accordion 1*/
+
+<div class="tcolumn" style="text-align:center"> /*Starts Accordion 2*/
+[accordion]
+[accordion-item] [title]
+[[Sellen River|<img style="padding:25px" src="https://db4sgowjqfwig.cloudfront.net/campaigns/216748/assets/1021023/River_Kingdoms.png?1573674061" width="200px"></img>]]
+[end-title]
+[content]
+*[[Sellen River]]*
+[[Lake Encarthan]]
+[[Illmarsh]]
+Lake Kallas
+[[Riverton]]
+Galt
+Debril
+[[Cassomir]]
+[end-content]
+[end-accordion-item]
+[end-accordion]
+</div>  /*Ends Accordion 2*/
+
+<div class="tcolumn" style="text-align:center"> /*Starts Accordion 3*/
+[accordion]
+[accordion-item]
+[title]
+[[Inner Sea|<img style="padding:25px" src="https://db4sgowjqfwig.cloudfront.net/campaigns/216748/assets/1020768/Inner_Sea.png?1573581507" width="200px"></img>]]
+[end-title]
+[content]
+*[[Inner Sea]]*
+[[Absalom]]
+[end-content]
+[end-accordion-item]
+[end-accordion]
+</div>  /*Ends Accordion 3*/
+
+</div>  /*Ends the accodion modification*/
+
+</div>  /*Closes the Banner div*/
